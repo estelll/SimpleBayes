@@ -1,0 +1,3 @@
+alpha:0.01
+feature:TfidfVectorizer
+model:MultinomialNB

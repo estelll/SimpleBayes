@@ -1,0 +1,14 @@
+是的	confirm
+没问题	confirm
+是	confirm
+对	confirm
+对的	confirm
+没错	confirm
+就是	confirm
+当然	confirm
+正确	confirm
+嗯	confirm
+不是	reject
+不对	reject
+错了	reject
+非也	reject
